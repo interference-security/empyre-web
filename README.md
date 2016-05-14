@@ -60,7 +60,7 @@ Stay Calm. Stay Secure. Contribute :)
 ![empyre-web-login](https://cloud.githubusercontent.com/assets/5358495/15268453/d429473a-19fc-11e6-90a2-9cac96643463.PNG)
 
 
-![empyre-web-about](https://cloud.githubusercontent.com/assets/5358495/15268454/dce45d6a-19fc-11e6-8ba5-77ad1dc0b538.PNG)
+![empyre-web-about](https://cloud.githubusercontent.com/assets/5358495/15268501/7d40496c-19fe-11e6-884f-914081da2780.PNG)
 
 
 ![empyre-web-dashboard](https://cloud.githubusercontent.com/assets/5358495/15268458/e7132cee-19fc-11e6-8ed5-8c29f929649c.PNG)
